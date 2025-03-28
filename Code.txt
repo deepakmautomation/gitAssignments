@@ -1,0 +1,9 @@
+public class Demo
+{
+	public static void(Strng[] args)
+	{
+
+		System.out.println("Hello Java World");
+
+	}
+}
